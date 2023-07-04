@@ -1,0 +1,4 @@
+class Solution:
+    def sumOfNaturals(self, n):
+        # code here 
+        return ((n*(n+1))//2)%(pow(10,9)+7)
