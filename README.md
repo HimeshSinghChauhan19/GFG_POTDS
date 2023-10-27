@@ -1,4 +1,9 @@
-😀HEY THERE!😄
+# Current Statistics
+
+## Total No. of Problems Solved in GFG - 153
+## No. of Problems part of Daily POTDS - 123
+
+# 😀HEY THERE!😄
 
 If you are wondering what are POTDS... it just stands for Problem Of The Day 😎
 GeeksForGeeks.com has these "POTDS" which we can solve to brush up our skills
